@@ -1,12 +1,11 @@
-# TBMD-XZU: An Open Speech Resource for Tibetan Multi-Dialect
+# TBMD: An Open Speech Resource for Tibetan Multi-Dialect
 
-**Authors:** Renzeng Duojie
 **Status:** 🚧 *Coming Soon*
 
 ---
 
 ### Overview
-**TBMD-XZU** (Tibetan Multi-Dialect Speech Dataset) is an open, high-quality speech corpus that systematically covers the three major dialects of Tibetan — Ü-Tsang, Amdo, and Kham.  
+**TBMD** (Tibetan Multi-Dialect Speech Dataset) is an open, high-quality speech corpus that systematically covers the three major dialects of Tibetan — Ü-Tsang, Amdo, and Kham.  
 The dataset aims to support a wide range of speech and language technology research, including:
 - Automatic Speech Recognition (ASR)  
 - Speech Synthesis (TTS)  
@@ -17,7 +16,7 @@ The dataset aims to support a wide range of speech and language technology resea
 
 ### Dataset Overview
 
-The **TBMD-XZU dataset** comprises **57.53 hours** of transcribed Tibetan speech, totaling **31,986 utterances** across **nine domains**.  
+The **TBMD dataset** comprises **57.53 hours** of transcribed Tibetan speech, totaling **31,986 utterances** across **nine domains**.  
 As shown in the table below, the corpus maintains a balanced coverage of various real-world scenarios, including *news reports*, *academic texts*, *daily conversations*, *novels*, and *religious discourse*.  
 Daily-life speech constitutes the largest portion, accounting for approximately **46%** of the total duration (26.59 hours), followed by *news* (8.55 hours), *novels* (6.58 hours), and *academic* recordings (5.89 hours).  
 Specialized topics such as *Buddhism*, *drama*, *medical*, and *law* ensure diversity in linguistic style, vocabulary, and phonetic expression.  
